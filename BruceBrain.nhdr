@@ -1,0 +1,8 @@
+NRRD0001
+content: "Bruce Gooch's Brain, Bruce Gooch, U. of Utah"
+type: unsigned short
+dimension: 3
+sizes: 256 256 156
+endian: big
+encoding: gzip
+data file: ./BruceBrain.raw.gz
