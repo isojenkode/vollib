@@ -1,0 +1,9 @@
+NRRD0001
+content: "MRI Woman, Siemens Medical Systems"
+type: unsigned short
+dimension: 3
+sizes: 256 256 109
+spacings: 1 1 1.5
+endian: big
+encoding: gzip
+data file: ./MRI-Woman.raw.gz

@@ -1,0 +1,8 @@
+NRRD0001
+type: unsigned short
+dimension: 3
+sizes: 512 512 134
+spacings: 0.371094 0.371094 1
+endian: big
+encoding: gzip
+data file: ./Pig.raw.gz

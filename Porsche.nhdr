@@ -1,0 +1,7 @@
+NRRD0001
+content: Porsche
+type: unsigned char
+dimension: 3
+sizes: 559 1023 347
+encoding: gzip
+data file: ./Porsche.raw.gz

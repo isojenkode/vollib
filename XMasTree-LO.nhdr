@@ -1,0 +1,7 @@
+NRRD0001
+type: unsigned short
+dimension: 3
+sizes: 256 249 256
+endian: big
+encoding: gzip
+data file: ./XMasTree-LO.raw.gz

@@ -1,0 +1,7 @@
+NRRD0001
+type: unsigned short
+dimension: 3
+sizes: 128 128 58
+endian: big
+encoding: gzip
+data file: ./DTI-B1.raw.gz

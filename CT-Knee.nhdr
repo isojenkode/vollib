@@ -1,0 +1,7 @@
+NRRD0001
+content: CT-Knee
+type: unsigned char
+dimension: 3
+sizes: 379 229 305
+encoding: gzip
+data file: ./CT-Knee.raw.gz

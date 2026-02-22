@@ -1,0 +1,8 @@
+NRRD0001
+content: "Registered Monkey Head (CT), UCLA"
+type: unsigned char
+dimension: 3
+sizes: 256 256 62
+spacings: 1 1 3
+encoding: gzip
+data file: ./Monkey-CT.raw.gz

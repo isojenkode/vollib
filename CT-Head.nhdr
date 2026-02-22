@@ -1,0 +1,8 @@
+NRRD0001
+type: unsigned short
+dimension: 3
+sizes: 256 256 113
+spacings: 0.95 1 1.8878
+endian: big
+encoding: gzip
+data file: ./CT-Head.raw.gz

@@ -1,0 +1,7 @@
+NRRD0001
+type: unsigned char
+dimension: 3
+sizes: 512 512 189
+spacings: 0.402344 0.402344 1
+encoding: gzip
+data file: ./Bonsai2-LO.raw.gz

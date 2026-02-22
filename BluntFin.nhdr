@@ -1,0 +1,8 @@
+NRRD0001
+content: BluntFin
+type: unsigned char
+dimension: 3
+sizes: 256 128 64
+spacings: 1 0.75 1
+encoding: gzip
+data file: ./BluntFin.raw.gz
